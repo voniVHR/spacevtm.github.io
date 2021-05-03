@@ -1,0 +1,107 @@
+
+body{
+		margin: 0;
+	font-family: 'Work Sans', sans-serif;
+}
+
+.navbarspaceY{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 70px;
+	padding: 20px 15px;
+	background-color: #f1f1f1;
+}
+
+.fusee{
+  width: 60px;
+}
+
+.nav-links {
+	display: flex;
+	justify-content: space-around;
+	width: 50%;
+}
+
+.link {
+	color: #262525;
+	text-decoration: none;
+	font-weight: 600;
+}
+
+.planète{
+	background-image: url(https://cdn.discordapp.com/attachments/829335277469564960/831163854968717392/planette.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 90vh;/*vh:view height*/
+	margin:0;
+}	
+.photo{
+	width: 300px;
+	height: 200px;
+}
+h1{
+	font-size: 80px;
+	font-weight: 200;
+	padding-top: 10%;
+	margin:0px;
+	color: #FFF956;
+	text-align: center;
+}
+
+h2{
+	font-size: 45px;
+	font-weight: 100;
+	padding:30px;
+	margin:0;
+	color: #4AFF49;
+	text-align: center;
+}
+
+.image-une {
+    background-image:url( https://img.lemde.fr/2020/05/25/0/0/3000/2000/1920/0/75/0/e0f0691_g9v6F_7OvbyLPdsnkF9GKQzf.jpg);
+    background-size: cover;
+    height: 90VH;
+    }
+.blocs{
+	display: flex;
+	justify-content: space-around;
+}    
+
+#voyages{
+	background-color: grey;
+	margin: 0;
+}
+
+h3{
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+h4{
+	text-align: center;
+	font-weight: bold;
+}
+#situation{
+	background-color: #f1f1f1;
+	margin-top: 10%;
+}
+
+#mc_embed_signup_scroll{
+	background-color: #f1f1f1;
+}
+.logo-facebook{
+    width: 50px;
+
+}
+
+.logo-linkedin{
+    width: 50px;
+}
+
+.logo-instagram{
+    width: 50px;
+}
+
